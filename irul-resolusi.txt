@@ -4,3 +4,10 @@ IRUL RESOLUSI :
  
  BELI BARANG YANG DI INGIN : 
  mobil motor
+ 
+ java 
+ html 
+ css
+ 
+ pjyhon
+ php
