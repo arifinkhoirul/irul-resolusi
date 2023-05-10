@@ -8,3 +8,6 @@ IRUL RESOLUSI :
  java 
  html 
  css
+ 
+ pjyhon
+ php
