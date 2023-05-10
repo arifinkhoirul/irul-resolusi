@@ -3,4 +3,7 @@ IRUL RESOLUSI :
  -perbanyak bikin website untuk portfolio
  
  BELI BARANG YANG DI INGIN : 
- mobil motor
+
+
+php 
+phython
